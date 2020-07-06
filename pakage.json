@@ -1,0 +1,11 @@
+{
+  "name": "khalisa",
+  "version": "1.0.0",
+  "description": "I love farhan",
+  "main": "index.js",
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
